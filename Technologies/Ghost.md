@@ -1,0 +1,1 @@
+The digitized remains of a human being. Stored in a [[T.O.M.B.]].

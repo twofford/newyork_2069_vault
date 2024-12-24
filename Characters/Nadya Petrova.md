@@ -1,0 +1,1 @@
+[[Tatyana Tereshkova]]'s girlfriend.

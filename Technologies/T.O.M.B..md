@@ -1,0 +1,1 @@
+Stands for Technical Overlay for Memory Binding. Developed by [[SIGMA]].

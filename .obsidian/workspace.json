@@ -162,13 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2079ebcbd07956c1",
+  "active": "c482b9fcd02071e8",
   "lastOpenFiles": [
-    "Characters/Nadya Petrova.md",
-    "Characters/Tatyana Tereshkova.md",
     "Gangs/Nachthexen.md",
-    "Gangs/Cipher.md",
     "README.md",
+    "Characters/Nadya Petrova.md",
     "Characters/Moshe Hellerman.md",
     "Technologies/Neuraflux.md",
     "Rules Reference.md",
@@ -183,6 +181,7 @@
     "Gangs/The Repo Men.md",
     "Gangs/NYC Overground.md",
     "Gangs/Kolonna.md",
+    "Gangs/Cipher.md",
     "Gangs/CPU.md",
     "Corporations/Zurich Orbital.md",
     "Corporations/SynapTech.md",
@@ -190,6 +189,7 @@
     "Corporations/Cairn.md",
     "Corporations/Alamo Arms.md",
     "Corporations/AgriGenix.md",
+    "Corporations/Dōngfāng Xiānfēng Fángwù (Eastern Vanguard Defense).md",
     "NYC Locations/Brooklyn/Crown Heights",
     "Jobs",
     "Locations",

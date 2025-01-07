@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Tatyana Tereshkova"
             }
+          },
+          {
+            "id": "0a0493999065af1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Tatyana Tereshkova.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tatyana Tereshkova"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,13 +177,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2079ebcbd07956c1",
+  "active": "0a0493999065af1e",
   "lastOpenFiles": [
     "Characters/Sev.md",
     "Characters/Nadya Petrova.md",
-    "Characters/Moshe Hellerman.md",
     "Characters/Jeff Stephanopoulos.md",
+    "???.md",
     "Characters/Tatyana Tereshkova.md",
+    "Characters/Moshe Hellerman.md",
     "Corporations/AgriGenix.md",
     "Gangs/Nachthexen.md",
     "Gangs/Kolonna.md",
@@ -189,7 +205,6 @@
     "Locations/Chinese California.md",
     "Corporations/Zurich Orbital.md",
     "Corporations/SynapTech.md",
-    "Corporations/SIGMA.md",
     "NYC Locations/Brooklyn/Crown Heights",
     "Jobs",
     "Locations",

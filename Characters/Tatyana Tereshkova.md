@@ -4,11 +4,18 @@ aliases:
 tags:
   - PC
 ---
-Birtdate: January 10, 2046, Leningrad, USSR
+Date of Birth: January 10, 2046
+
+Place of Birth: Leningrad, USSR
+
 Gender: F
+
 Height: 5'10
+
 Hair: Black
+
 Nationality: Russian
+
 Distinguishing Features: Color-Change Irises, Chromed Teeth
 
 Tatyana (Taty to her friends *only*) was born to a relatively well-placed family in Leningrad. She always had a strong aptitude for the hard sciences, something which her parents and teachers encouraged her in.

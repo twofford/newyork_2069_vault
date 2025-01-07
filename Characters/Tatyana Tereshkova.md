@@ -1,6 +1,5 @@
 ---
 aliases:
-  - Tatyana
   - Taty
 ---
 Born: January 10, 2042, Leningrad, USSR

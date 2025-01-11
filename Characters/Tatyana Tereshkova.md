@@ -21,3 +21,10 @@ Distinguishing Features: Color-Change Irises, Chromed Teeth
 Tatyana (Taty to her friends *only*) was born to a relatively well-placed family in Leningrad. She always had a strong aptitude for the hard sciences, something which her parents and teachers encouraged her in.
 
 However, Taty developed a rebellious streak as a teenager. When she showed up to New Year's wearing women's clothes and with a scar on her lower abdomen 10 days before her 18th birthday, her family hoped that this would, at least, calm her down.
+
+#### Culture Shock
+- Taty is used to a climate about 10 degrees colder than NYC. She may have trouble with the heat.
+- English is her third language, so she has a hard time with idioms sometimes
+- The standard of living is higher in the USSR (the Second Civil War certainly didn't help the American economy).
+- She doesn't understand tipping
+- She's used to much less of a gun culture

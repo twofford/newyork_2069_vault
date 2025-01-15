@@ -16,7 +16,7 @@ Hair: Black
 
 Nationality: Russian
 
-Distinguishing Features: Color-Change Irises, Chromed Teeth
+Distinguishing Features: color-change irises, chromed teeth
 
 Tatyana (Taty to her friends *only*) was born to a relatively well-placed family in Leningrad. She always had a strong aptitude for the hard sciences, something which her parents and teachers encouraged her in.
 

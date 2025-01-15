@@ -6,7 +6,7 @@ Date of Birth: ???
 
 Place of Birth: ???
 
-Gender: ???
+Gender: M
 
 Height: ???
 
@@ -14,4 +14,4 @@ Hair: ???
 
 Nationality: ???
 
-Distinguishing Features: ???
+Distinguishing Features: reverse-jointed prosthetic legs

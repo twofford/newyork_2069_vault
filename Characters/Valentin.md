@@ -2,16 +2,16 @@
 tags:
   - PC
 ---
-Date of Birth: ???
+Date of Birth: 38
 
-Place of Birth: ???
+Place of Birth: Lunar Color
 
 Gender: M
 
-Height: ???
+Height: 6'5"
 
-Hair: ???
+Hair: Dark but bleached blonde on top
 
-Nationality: ???
+Ethnicity: Hispanic-ish
 
-Distinguishing Features: reverse-jointed prosthetic legs
+Distinguishing Features: reverse-jointed prosthetic legs, right forearm prosthetic, yakuza-style tattoos.

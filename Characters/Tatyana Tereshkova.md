@@ -10,7 +10,7 @@ Place of Birth: Leningrad, USSR
 
 Gender: F
 
-Height: 5'10
+Height: 5'6"
 
 Hair: Black
 

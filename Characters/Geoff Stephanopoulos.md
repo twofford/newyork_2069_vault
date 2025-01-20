@@ -2,18 +2,18 @@
 tags:
   - PC
 ---
-Date of Birth: ???
+Date of Birth: 33
 
-Place of Birth: ???
+Place of Birth: St. Louis, Missouri
 
 Gender: M
 
-Height: ???
+Height: 6'0"
 
-Hair: ???
+Hair: Black
 
-Nationality: ???
+Nationality: American
 
-Distinguishing Features: ???
+Distinguishing Features: Nothing sticks out. Schnoz.
 
 A private eye turned social media influencer.

@@ -1,4 +1,6 @@
-##### Proficiency Bonus
+# Rules Reference
+
+## Proficiency Bonus
 
 | Level | Bonus |
 | ----- | ----- |
@@ -12,7 +14,9 @@
 | 8     | +3    |
 | 9     | +4    |
 | 10    | +4    |
-##### Most Common Languages in NYC
+
+## Most Common Languages in NYC
+
 1. English
 2. Spanish
 3. Chinese (including Cantonese, Mandarin, and other dialects)
@@ -22,4 +26,3 @@
 7. Korean
 8. Italian
 9. Yiddish
-

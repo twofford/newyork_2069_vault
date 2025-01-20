@@ -1,0 +1,54 @@
+# Timeline
+
+- 1776 - USA forms
+- 1918 - WW1 ends
+- 1922 - USSR forms
+- 1945 - US drops atomic bombs
+- 1945 - WW2 ends
+- 1949 - NATO forms
+- 1949 - PRC forms
+- 1969 - Sino-Soviet Border Conflict
+- 1969 - US lands on moon
+- 1970 - Nuclear Fusion discovered
+- 1972 - Fall of Saigon
+- 1972 - Soviet Economic Miracle
+- 1973 - USSR lands on moon
+- 1975 - NATO dissolves
+- 1976 - EU forms
+- 1979 - Three Mile Island Disaster
+- 1981 - Personal Computer invented
+- 1982 - Race to Mars begins
+- 1983 - Internet invented
+- 1989 - US builds Artemis Base on moon
+- 1990 - USSR builds Utopia Base on Mars
+- 1997 - Cybernetic augmentation experiments begin
+- 2000 - Human genome sequenced
+- 2000 - ISS opens
+- 2001 - 9/11 terrorist attacks
+- 2002 - US passes cybernetic augmentation laws
+- 2003 - Social media introduced
+- 2004 - Human DNA edited
+- 2006 - Human uplink bridge (HUB) invented
+- 2007 - HoloGUB gains popularity
+- 2015 - Influencer wars erupt
+- 2018 - Autonomous robots mass produced
+- 2025 - Probes launched to Jovian moons
+- 2030 - First corporate charter city established
+- 2036 - First vertical farms built in US
+- 2048 - North West elected president
+- 2050 - 2nd US Civil War begins
+- 2051 - USSR annexes Florida
+- 2052 - Creation of Nueva Cuba
+- 2054 - AgriGenix synthesizes crops
+- 2055 - SIGMA creates TOMB (Technical Overlay for Memory Binding)
+- 2057 - China invades us
+- 2059 - Washington, D.C. nuked
+- 2060 - 2nd US Civil War ends, USA divided into FSA and UCSA
+- 2060 - NYC becomes capital of FSA
+- 2061 - Mass migration to NYC from former USA
+- 2062 - United Evangelical Church of America founded
+- 2064 - Robot Liberation Movement begins
+- 2065 - Anti-robot riots erupt in NYC
+- 2066 - Texas secedes from UCSA
+- 2067 - HexRipper virus causes widespread robot malfunctions
+- 2069 - Neuraflux arrives in NYC

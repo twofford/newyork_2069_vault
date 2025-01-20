@@ -2,9 +2,12 @@
 tags:
   - PC
 ---
-Date of Birth: ???
 
-Place of Birth: New York City
+# Jack
+
+Date of Birth: 2046
+
+Place of Birth: NYC
 
 Gender: F
 
@@ -16,4 +19,4 @@ Ethnicity: American
 
 Distinguishing Features: purple hair, tattoos, face tattoos
 
-Raised by Cypher.
+A hacker raised by Cypher.

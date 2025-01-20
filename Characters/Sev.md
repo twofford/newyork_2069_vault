@@ -5,11 +5,14 @@ aliases:
 tags:
   - PC
 ---
-Date of Birth: ???
 
-Place of Birth: ???
+# Sev
 
-Gender: ???
+Date of Birth: 2046
+
+Place of Birth: NYC
+
+Gender: F
 
 Height: ???
 

@@ -2,7 +2,9 @@
 tags:
   - PC
 ---
-Date of Birth: 33
+# Geoff Stephanopolous
+
+Date of Birth: 2036
 
 Place of Birth: St. Louis, Missouri
 
@@ -14,6 +16,6 @@ Hair: Black
 
 Nationality: American
 
-Distinguishing Features: Nothing sticks out. Schnoz.
+Distinguishing Features: Nothing sticks out. Slightly large nose.
 
 A private eye turned social media influencer.

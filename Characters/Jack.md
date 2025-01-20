@@ -19,4 +19,4 @@ Ethnicity: American
 
 Distinguishing Features: purple hair, tattoos, face tattoos
 
-A hacker raised by Cypher.
+A hacker raised by Cipher.

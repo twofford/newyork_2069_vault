@@ -2,8 +2,6 @@
 tags:
   - PC
 ---
-# Geoff Stephanopolous
-
 Date of Birth: 2036
 
 Place of Birth: St. Louis, Missouri

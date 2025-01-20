@@ -2,9 +2,6 @@
 tags:
   - PC
 ---
-
-# Valentin
-
 Date of Birth: 2031
 
 Place of Birth: Lunar Colony

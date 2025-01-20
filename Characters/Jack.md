@@ -2,9 +2,6 @@
 tags:
   - PC
 ---
-
-# Jack
-
 Date of Birth: 2046
 
 Place of Birth: NYC

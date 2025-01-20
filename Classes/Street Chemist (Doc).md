@@ -1,5 +1,3 @@
-# Street Chemist (Doc)
-
 The Street Chemist focuses on cooking drugs that help their allies and hinder their enemies.
 
 ## Let Her Cook

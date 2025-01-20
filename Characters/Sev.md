@@ -5,9 +5,6 @@ aliases:
 tags:
   - PC
 ---
-
-# Sev
-
 Date of Birth: 2046
 
 Place of Birth: NYC

@@ -1,5 +1,3 @@
-# Rules Reference
-
 ## Proficiency Bonus
 
 | Level | Bonus |

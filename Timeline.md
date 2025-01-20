@@ -1,5 +1,3 @@
-# Timeline
-
 - 1776 - USA forms
 - 1918 - WW1 ends
 - 1922 - USSR forms

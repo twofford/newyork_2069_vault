@@ -4,9 +4,6 @@ aliases:
 tags:
   - PC
 ---
-
-# Tatyana Tereshkova
-
 Date of Birth: January 10, 2046
 
 Place of Birth: Leningrad, USSR

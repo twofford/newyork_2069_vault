@@ -1,1 +1,1 @@
-A [[SynapTech]] VP who had Leon Riley killed.
+A [[SynapTech]] VP who had [[Leon Riley]] killed.

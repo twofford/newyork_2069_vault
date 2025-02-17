@@ -1,1 +1,1 @@
-A member of [[Los Malditos]] hired by [[Mason Mitchell]] to kill Leon Riley.
+A member of [[Los Malditos]] hired by [[Mason Mitchell]] to kill [[Leon Riley]].

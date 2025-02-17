@@ -27,13 +27,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline.md",
+                "file": "Jobs/2. Crash Into Me.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timeline"
+              "title": "2. Crash Into Me"
             }
           }
         ],
@@ -180,32 +180,33 @@
   },
   "active": "0a0493999065af1e",
   "lastOpenFiles": [
+    "Characters/Quan Tonic.md",
+    "Characters/Sev.md",
+    "Characters/Shmuel Hellerman.md",
+    "Characters/Suzume Usui.md",
+    "Characters/Tatyana Tereshkova.md",
+    "Characters/Valentin Devaux.md",
+    "Characters/Chavo Chavez.md",
+    "Jobs/2. Crash Into Me.md",
+    "Gangs/Los Malditos.md",
+    "Characters/Mason Mitchell.md",
+    "Jobs/1. The Hunter.md",
+    "Locations/Megatower B17.md",
+    "Jobs/Untitled",
+    "Characters/Jack.md",
+    "Characters/Nadya Petrova.md",
+    "Characters/Geoff Stephanopoulos.md",
+    "NYC Locations/Brooklyn/Megabuilding B17.md",
+    "Timeline.md",
     "Rules Reference.md",
     "Technologies/T.O.M.B..md",
     "Technologies/Quantum Internet.md",
     "Technologies/Neuraflux.md",
     "Technologies/Ghost.md",
-    "Locations/Megatower B17.md",
     "Gangs/The Repo Men.md",
     "Gangs/NYC Overground.md",
     "Gangs/Nachthexen.md",
     "Gangs/Kolonna.md",
-    "Gangs/CPU.md",
-    "Gangs/Cipher.md",
-    "Countries/Free States of America.md",
-    "Countries/Chinese California.md",
-    "Corporations/Zurich Orbital.md",
-    "Corporations/SynapTech.md",
-    "Corporations/SIGMA.md",
-    "Corporations/Dōngfāng Xiānfēng Fángwù (Eastern Vanguard Defense).md",
-    "Corporations/Crusader.md",
-    "Corporations/Cairn.md",
-    "Corporations/Alamo Arms.md",
-    "Corporations/AgriGenix.md",
-    "Classes/Street Chemist (Doc).md",
-    "Characters/Valentin.md",
-    "Characters/Tatyana Tereshkova.md",
-    "Characters/Shmuel Hellerman.md",
     "NYC Locations/Brooklyn/Crown Heights",
     "Jobs",
     "Locations",
@@ -214,7 +215,6 @@
     "Technologies",
     "Gangs/Minor",
     "Gangs/Major",
-    "Characters",
-    "Gangs"
+    "Characters"
   ]
 }

@@ -1,1 +1,1 @@
-A detective in the 70th precinct, NYPD.
+A detective in the 70th precinct, [[NYPD]].
